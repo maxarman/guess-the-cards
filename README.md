@@ -33,8 +33,7 @@ Answer correctly as many times as possible.
 
 ### Bonus Points:
 
-- After each round, call the Random Word API (https://api-
-  ninjas.com/api/randomword).
+- After each round, call the Random Word API (https://api-ninjas.com/api/randomword).
 - Display a funny message based on the API response.
 
 ### Resources & Tech Stack:

@@ -6,7 +6,6 @@ import Header from './Header.vue'
 import StartScreen from './StartScreen.vue'
 import GamePlay from './GamePlay.vue'
 import GameOver from './GameOver.vue'
-import Card from './Card.vue'
 
 const API_KEY = import.meta.env.VITE_APP_API_KEY
 const INITIAL_TIME = 100
